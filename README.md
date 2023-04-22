@@ -19,13 +19,15 @@ Avec un fonctionnement normal du système, chaque réservoir alimente son moteur
 Il faut noter que les réservoirs Tank1 et Tank3 ont une plus grande capacité que le réservoir Tank2.  
 
 Le carburant est acheminé aux moteurs à l'aide d'un système de pompes. Pour chaque réservoir il existe 2 pompes, une pompe primaire et une pompe de secours. Dans le fonctionnement normal, les pompes de secours sont arrêtées.
-  
+![image](https://user-images.githubusercontent.com/72187742/233805763-da285366-c5d1-4217-94f2-dc545a07a0eb.png)
+
 ---
 ## Le tableau de bord du pilote
 La partie du tableau de bord du pilote permettant de gérer le système carburant de l'avion. Le pilote peut réaliser les actions suivantes:
 - Ouvrir ou fermer les vannes VT12 et VT23 (boutons VT12 et VT23 Figure 2);
 - Ouvrir ou fermer les vannes V12, V13, V23 (boutons V12, V13 et V23 Figure 2);
 - Démarrer ou arrêter les pompes de secours (boutons P12, P22 et P32 Figure 2).
+![image](https://user-images.githubusercontent.com/72187742/233805787-af833f93-f811-4837-b3f8-8309c411f02e.png)
 
 ---
 ## Les pannes
