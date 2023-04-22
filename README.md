@@ -5,6 +5,7 @@ Simulation du fonctionnement du système de carburant simplifié d'un avion de c
 
 L'objectif de ce projet est de pratiquer la programmation orientée objet.
 
+Projet réaliser en binome avec Mohamed Amine.
 ---
 # Exécution du code
 Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez la commabde.
