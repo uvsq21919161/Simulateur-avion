@@ -9,7 +9,7 @@ Projet réalisé en binome avec Mohamed Amine.
 
 ---
 # Exécution du code
-Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez la commabde.
+Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez la commande.
 ```
 make
 ```
