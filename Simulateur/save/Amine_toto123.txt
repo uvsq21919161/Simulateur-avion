@@ -1,0 +1,17 @@
+Reservoir Tank1 plein 
+Reservoir Tank2 plein 
+Reservoir Tank3 vide 
+Vanne v12 fermee 
+Vanne v13 fermee 
+Vanne v23 fermee 
+VanneReservoir vt12 fermee 
+VanneReservoir vt23 fermee 
+Moteur M1 Tank1 
+Moteur M2 Tank2 
+Moteur M3 Tank3 
+Pompe p11 marche 
+Pompe p12 marche 
+Pompe p21 marche 
+Pompe p22 marche 
+Pompe p31 marche 
+Pompe p32 marche 
