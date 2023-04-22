@@ -7,7 +7,7 @@ L'objectif de ce projet est de pratiquer la programmation orientée objet.
 
 ---
 # Exécution du code
-Pour exécuter la commande, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez-la.
+Pour exécuter le code, placez-vous d'abord dans le chemin correspondant dans le terminal, puis exécutez la commabde.
 ```
 make
 ```
